@@ -42,7 +42,7 @@ def notify(uzs):
 with DAG(
     dag_id="exchange_rate_dag",
     start_date=datetime(2024, 1, 1),
-    schedule="@daily",
+    schedule="@hourly",
     catchup=False
 ) as dag:
     extract_task = PythonOperator(
