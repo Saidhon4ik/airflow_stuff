@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -43,3 +44,6 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+=======
+# airflow_stuff
+>>>>>>> 07f7eae5b2afd135970414b49c9b9e0971ae6751
